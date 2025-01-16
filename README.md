@@ -1,4 +1,4 @@
-# Durable Chat App
+# Durable Chat App!
 
 Chat with other users in real-time using [Durable Objects](https://developers.cloudflare.com/durable-objects/) and [PartyKit](https://www.partykit.io/).
 
